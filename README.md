@@ -4,7 +4,7 @@
 
 ### Data Analyst | Data Science Aspirant | BCA Graduate — IGNOU, Delhi
 
-🌐 [View Live Portfolio](https://sushmita2000g-glitch.github.io/sushmita-poddar-portfolio) &nbsp;•&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sushmita-poddar-782b523b0) &nbsp;•&nbsp; 📧 [Email](mailto:sushmitapoddar@email.com) &nbsp;•&nbsp; 📞 +91-8882375437
+🌐 [View Live Portfolio](https://sushmita2000g-glitch.github.io/sushmita-poddar-portfolio) &nbsp;•&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sushmita-poddar-782b523b0) &nbsp;•&nbsp; 📧 [Email](mailto:sushmitapoddar2000g@gmail.com) &nbsp;•&nbsp; 📞 +91-8882375473
 
 ---
 
@@ -192,9 +192,9 @@ sushmita-poddar-portfolio/
 |:--|:--|
 | 💼 **LinkedIn** | [sushmita-poddar-782b523b0](https://linkedin.com/in/sushmita-poddar-782b523b0) |
 | 🐙 **GitHub** | [sushmita2000g-glitch](https://github.com/sushmita2000g-glitch) |
-| 📧 **Email** | sushmitapoddar@email.com |
-| 📱 **Phone** | +91-8882375437 |
-| 💬 **WhatsApp** | [Chat on WhatsApp](https://wa.me/918882375437) |
+| 📧 **Email** | sushmitapoddar2000g@gmail.com |
+| 📱 **Phone** | +91-8882375473 |
+| 💬 **WhatsApp** | [Chat on WhatsApp](https://wa.me/918882375473) |
 | 📍 **Location** | Delhi, India · Open to Remote |
 
 ---
